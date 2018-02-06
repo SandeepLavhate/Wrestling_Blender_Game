@@ -18,5 +18,4 @@ The main objective of game is:
 <li>And go outside the ring/floor.</li><br/>
 <li>He lose the game first.
 
-Game Blend File: ![Game_Screen](https://github.com/SandeepLavhate/Wrestling_Blender_Game/blob/master/Wrestling.blend)<br/>
-Game Document: ![Game_Screen](https://github.com/SandeepLavhate/Wrestling_Blender_Game/blob/master/Sumo%20wrestling%20game.pdf)
+
