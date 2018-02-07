@@ -3,11 +3,14 @@
 
 <img src="https://github.com/SandeepLavhate/Wrestling_Blender_Game/blob/master/Wrestling_game.png" alt="alt text" width="550px" height="300px" align="right">
 
-<b>Introduction</b>: The Blender Game Engine is a component of Blender, a free and open-source comprehensive 3D production suite, used for making real-time interactive content. The game engine was written from scratch in C++ as a mostly independent component, and includes support for features such as Python scripting and OpenAL 3D sound.
-<br/><br/><br/>
-<b>Objective</b>: The Sumo Wrestling is multiplayer game.
+<b>Introduction</b>:The Sumo Wrestling is multiplayer game made iby using Blender 3D Software.
 
-The main objective of game is:
+Blender Game Engine:
+The Blender Game Engine is a component of Blender, a free and open-source comprehensive 3D production suite, used for making real-time interactive content. The game engine was written from scratch in C++ as a mostly independent component, and includes support for features such as Python scripting and OpenAL 3D sound.
+<br/><br/><br/>
+
+<b>Objective</b>: 
+
 <table>
   <td>Player who touch the ring first.</td>
 <td>And go outside the ring/floor.</td>
