@@ -7,8 +7,16 @@
 
 <b>Objective</b>: The Sumo Wrestling is multiplayer game.<br/><br/><br/>
 
-
-
+<html>
+ <style>
+ 
+ 
+   
+ </style>
+<body>
+  
+  
+  
 The main objective of game is:
 <ul>
   <li>Player who touch the ring first.</li><br/>
@@ -24,7 +32,7 @@ The main objective of game is:
 <li>Player who touch the ring first.</li><br/>
 <li>And go outside the ring/floor.</li><br/>
 <li>He lose the game first.
-  
-
+ </body> 
+</html>
 
 Game <a href="https://github.com/SandeepLavhate/Wrestling_Blender_Game/blob/master/Wrestling.blend">blend file</a> || Game <a href="https://github.com/SandeepLavhate/Wrestling_Blender_Game/blob/master/Sumo%20wrestling%20game.pdf">Presentation Slides</a>
