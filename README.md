@@ -7,16 +7,8 @@
 
 <b>Objective</b>: The Sumo Wrestling is multiplayer game.<br/><br/><br/>
 
-<html>
- <style>
+
  
- 
-   
- </style>
-<body>
-  
-  
-  
 The main objective of game is:
 <ul>
   <li>Player who touch the ring first.</li><br/>
@@ -26,7 +18,7 @@ The main objective of game is:
 
 
 
-<b>How to PLAY</b>:<br/>
+<b >How to PLAY</b>:<br/>
 <li>Make opponent to touch the ring.</li><br/>
 <li>By pushing each other.</li><br/>
 <li>Player who touch the ring first.</li><br/>
