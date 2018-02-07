@@ -1,7 +1,7 @@
 # Wrestling: Blender Game Engine
 
 
-<img src="https://github.com/SandeepLavhate/Wrestling_Blender_Game/blob/master/Wrestling_game.png" alt="alt text" width="550px" height="300px">
+<img src="https://github.com/SandeepLavhate/Wrestling_Blender_Game/blob/master/Wrestling_game.png" alt="alt text" width="550px" height="300px" align="right">
 
 <b>Introduction</b>:The Blender Game Engine is a component of Blender, a free and open-source comprehensive 3D production suite, used for making real-time interactive content. The game engine was written from scratch in C++ as a mostly independent component, and includes support for features such as Python scripting and OpenAL 3D sound.
 
