@@ -25,4 +25,32 @@ The main objective of game is:
 <td>He lose the game first.</td>
  </table>
 
+<b>Keys to PLAY</b>:
+
+PLAYER A KEYS: 
+<ul >
+  <li>UP ARROW – To move forward </li>
+   <li>DOWN ARROW – To move backward</li>
+   <li>LEFT ARROW – Turn left</li>
+   <li>RIGHT ARROW – Turn right</li>
+   <li>ENTER – To jump</li>
+ 
+ </ul>
+ 
+ 
+ PLAYER B KEYS: 
+<ul >
+ <li>W - To move forward</li>
+  <li>S - To move backward</li>
+  <li>A – Turn left</li>
+ <li>D – Turn right</li>
+ <li>SPACEBAR – To jump</li>
+ </ul>
+
+
+
+
+
+
+
 Game <a href="https://github.com/SandeepLavhate/Wrestling_Blender_Game/blob/master/Wrestling.blend">blend file</a> || Game <a href="https://github.com/SandeepLavhate/Wrestling_Blender_Game/blob/master/Sumo%20wrestling%20game.pdf">Presentation Slides</a>
